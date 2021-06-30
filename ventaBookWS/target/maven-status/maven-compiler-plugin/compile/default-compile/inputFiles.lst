@@ -1,0 +1,14 @@
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\JAXRSConfiguration.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\Libreria.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\StockDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\resources\JavaEE8Resource.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\conexion\ConexionMySQL.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dao\ProductoDAO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\BodegaDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\VentasDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\ClienteDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\DespachoDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\UbicacionDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\logica\LogicaStock.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\dto\ResponseDTO.java
+D:\workspace\ventaBookWS\src\main\java\com\soap\ventabook\LibreriaImpl.java

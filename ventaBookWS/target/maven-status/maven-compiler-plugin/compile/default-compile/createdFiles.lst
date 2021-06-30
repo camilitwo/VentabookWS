@@ -1,0 +1,14 @@
+com\soap\ventabook\JAXRSConfiguration.class
+com\soap\ventabook\resources\JavaEE8Resource.class
+com\soap\ventabook\dto\DespachoDTO.class
+com\soap\ventabook\dao\ProductoDAO.class
+com\soap\ventabook\dto\UbicacionDTO.class
+com\soap\ventabook\dto\StockDTO.class
+com\soap\ventabook\dto\BodegaDTO.class
+com\soap\ventabook\dto\ClienteDTO.class
+com\soap\ventabook\LibreriaImpl.class
+com\soap\ventabook\dto\VentasDTO.class
+com\soap\ventabook\dto\ResponseDTO.class
+com\soap\ventabook\logica\LogicaStock.class
+com\soap\ventabook\conexion\ConexionMySQL.class
+com\soap\ventabook\Libreria.class
